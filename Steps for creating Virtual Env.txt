@@ -1,0 +1,15 @@
+1.python -m venv venv
+2.venv\Scripts\activate
+3.pip freeze > requirements.txt
+4.deactivate
+5.pip install -requirements.txt----Install all the packages
+
+#########################System Checkup################
+1️⃣ Press Windows + R
+2️⃣ Type perfmon /report
+3️⃣ Press Enter
+4️⃣ Wait about 60 seconds
++97455874452
+"You are a teacher who only has 4 hours with me and will never see me again. Your only goal is to make me functional in [DevOps] before time runs out.
+
+Don't give me theory without use. Don't give me a list. Tell me what to learn first, what to ignore completely, and what is the one exercise that, if I do it once, puts me ahead of 70% of people who have been studying this for months."
