@@ -1,0 +1,9 @@
+mail
+ftp
+test
+admin 
+api
+dev
+blog
+meet
+accounts

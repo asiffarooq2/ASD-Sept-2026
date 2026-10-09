@@ -1,0 +1,132 @@
+
+Fri Oct  9 21:54:23 2026 - Monitoring started
+Fri Oct  9 21:54:23 2026 - Clipboard: "mail", "ftp", "test", "admin", "api", "dev", "blog","meet","accounts"
+Fri Oct  9 21:54:23 2026 - Screenshot: screenshots/screenshot_1791563063.png
+Fri Oct  9 21:54:33 2026 - Clipboard: "mail", "ftp", "test", "admin", "api", "dev", "blog","meet","accounts"
+Fri Oct  9 21:54:33 2026 - Screenshot: screenshots/screenshot_1791563073.png
+Fri Oct  9 21:54:43 2026 - Clipboard: "mail", "ftp", "test", "admin", "api", "dev", "blog","meet","accounts"
+Fri Oct  9 21:54:44 2026 - Screenshot: screenshots/screenshot_1791563083.png
+Fri Oct  9 21:54:54 2026 - Clipboard: Here we create a log file where we store activity:
+import time
+logfile = "activity_log.txt"
+def log_event(text):
+with open(logfile, "a", encoding="utf-8") as f:
+f.write(f"{time.ctime()} - {text}\n")
+log_event("Program started")
+Fri Oct  9 21:54:54 2026 - Screenshot: screenshots/screenshot_1791563094.png
+Fri Oct  9 21:55:04 2026 - Clipboard: Here we create a log file where we store activity:
+import time
+logfile = "activity_log.txt"
+def log_event(text):
+with open(logfile, "a", encoding="utf-8") as f:
+f.write(f"{time.ctime()} - {text}\n")
+log_event("Program started")
+Fri Oct  9 21:55:04 2026 - Screenshot: screenshots/screenshot_1791563104.png
+Fri Oct  9 21:55:14 2026 - Clipboard: Q1. Screenshot automation is used for:
+A) spying
+B) document creation
+C) illegal monitoring
+D) hacking
+Answer: B
+Fri Oct  9 21:55:15 2026 - Screenshot: screenshots/screenshot_1791563114.png
+Fri Oct  9 21:55:25 2026 - Clipboard: Q1. Screenshot automation is used for:
+A) spying
+B) document creation
+C) illegal monitoring
+D) hacking
+Answer: B
+Fri Oct  9 21:55:25 2026 - Screenshot: screenshots/screenshot_1791563125.png
+Fri Oct  9 21:55:35 2026 - Clipboard: Q1. Screenshot automation is used for:
+A) spying
+B) document creation
+C) illegal monitoring
+D) hacking
+Answer: B
+Fri Oct  9 21:55:36 2026 - Screenshot: screenshots/screenshot_1791563135.png
+Fri Oct  9 21:55:46 2026 - Clipboard: Q1. Screenshot automation is used for:
+A) spying
+B) document creation
+C) illegal monitoring
+D) hacking
+Answer: B
+Fri Oct  9 21:55:46 2026 - Screenshot: screenshots/screenshot_1791563146.png
+Fri Oct  9 21:55:56 2026 - Clipboard: Q1. Screenshot automation is used for:
+A) spying
+B) document creation
+C) illegal monitoring
+D) hacking
+Answer: B
+Fri Oct  9 21:55:56 2026 - Screenshot: screenshots/screenshot_1791563156.png
+Fri Oct  9 21:56:06 2026 - Monitoring finished
+Fri Oct  9 21:58:41 2026 - Monitoring started
+Fri Oct  9 21:58:41 2026 - Clipboard: Q1. Screenshot automation is used for:
+A) spying
+B) document creation
+C) illegal monitoring
+D) hacking
+Answer: B
+Fri Oct  9 21:58:41 2026 - Screenshot: screenshots/screenshot_1791563321.png
+Fri Oct  9 21:58:43 2026 - Clipboard: Q1. Screenshot automation is used for:
+A) spying
+B) document creation
+C) illegal monitoring
+D) hacking
+Answer: B
+Fri Oct  9 21:58:43 2026 - Screenshot: screenshots/screenshot_1791563323.png
+Fri Oct  9 21:58:45 2026 - Clipboard: Q1. Screenshot automation is used for:
+A) spying
+B) document creation
+C) illegal monitoring
+D) hacking
+Answer: B
+Fri Oct  9 21:58:46 2026 - Screenshot: screenshots/screenshot_1791563325.png
+Fri Oct  9 21:58:48 2026 - Clipboard: Q1. Screenshot automation is used for:
+A) spying
+B) document creation
+C) illegal monitoring
+D) hacking
+Answer: B
+Fri Oct  9 21:58:48 2026 - Screenshot: screenshots/screenshot_1791563328.png
+Fri Oct  9 21:58:50 2026 - Clipboard: Q1. Screenshot automation is used for:
+A) spying
+B) document creation
+C) illegal monitoring
+D) hacking
+Answer: B
+Fri Oct  9 21:58:50 2026 - Screenshot: screenshots/screenshot_1791563330.png
+Fri Oct  9 21:58:52 2026 - Clipboard: Q1. Screenshot automation is used for:
+A) spying
+B) document creation
+C) illegal monitoring
+D) hacking
+Answer: B
+Fri Oct  9 21:58:52 2026 - Screenshot: screenshots/screenshot_1791563332.png
+Fri Oct  9 21:58:54 2026 - Clipboard: Q1. Screenshot automation is used for:
+A) spying
+B) document creation
+C) illegal monitoring
+D) hacking
+Answer: B
+Fri Oct  9 21:58:54 2026 - Screenshot: screenshots/screenshot_1791563334.png
+Fri Oct  9 21:58:56 2026 - Clipboard: Q1. Screenshot automation is used for:
+A) spying
+B) document creation
+C) illegal monitoring
+D) hacking
+Answer: B
+Fri Oct  9 21:58:57 2026 - Screenshot: screenshots/screenshot_1791563336.png
+Fri Oct  9 21:58:59 2026 - Clipboard: Q1. Screenshot automation is used for:
+A) spying
+B) document creation
+C) illegal monitoring
+D) hacking
+Answer: B
+Fri Oct  9 21:58:59 2026 - Screenshot: screenshots/screenshot_1791563339.png
+Fri Oct  9 21:59:01 2026 - Clipboard: Q1. Screenshot automation is used for:
+A) spying
+B) document creation
+C) illegal monitoring
+D) hacking
+Answer: B
+Fri Oct  9 21:59:01 2026 - Screenshot: screenshots/screenshot_1791563341.png
+Fri Oct  9 21:59:03 2026 - Monitoring finished
